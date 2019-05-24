@@ -1,0 +1,8 @@
+Django==1.11.16
+Pillow==5.3.0
+python-dateutil==2.7.3
+pytz==2018.5
+requests==2.19.1
+six==1.11.0
+text-unidecode==1.2
+Unidecode==1.0.22
